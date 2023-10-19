@@ -12,6 +12,7 @@ dependencies:
   - numpy
   - pandas
   - jupyter
+  - bwa
   - scipy
   - matplotlib
   - parallel-fastq-dump
